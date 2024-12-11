@@ -1,2 +1,2 @@
 # openobserver
-Marine data collection tool
+Marine life conservation data collection tool
